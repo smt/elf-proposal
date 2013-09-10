@@ -1,1 +1,1 @@
-# Slide deck for Social Media Proposal to DSxD Labs
+# Slide deck for ELF Proposal to DSxD Labs
